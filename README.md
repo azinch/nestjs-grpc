@@ -10,7 +10,7 @@
 
 ## Description
 
-GRPC microservices, mono repo includes 2 services:
+GRPC microservices, mono repo (nest-cli.json) includes 2 services:
 
 1. apigateway service (front-end), receiving external requests via REST.
 2. auth service (back-end), updating internal database of Users according to the requests.
